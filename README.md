@@ -4,6 +4,8 @@
 
 ## 直接使用
 
+[在线打开拍摄周计划](https://zup2885-cell.github.io/xiaoyi-shooting-week-plan/) · [下载完整分享包](https://github.com/zup2885-cell/xiaoyi-shooting-week-plan/archive/refs/heads/main.zip)
+
 下载本仓库的 ZIP，解压后双击 `index.html`。这是包含程序、样式和示例 PDF 的单文件网页，不需要安装 Node.js、申请 API 密钥或登录 ChatGPT。
 
 - `index.html`：可直接打开的完整计划网页。
